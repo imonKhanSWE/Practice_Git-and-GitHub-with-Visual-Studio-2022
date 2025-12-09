@@ -10,7 +10,7 @@ namespace Practice_Git_and_GitHub_with_VS_2022
     {
         static void Main(string[] args)
         {
-           Console.WriteLine("Hellow world");
+           Console.WriteLine("Hellow world! I have been starting learning git and github");
         }
     }
 }
